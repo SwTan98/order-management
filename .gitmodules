@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/SwTan98/api-gateway
+[submodule "order-micro"]
+	path = order-micro
+	url = https://github.com/SwTan98/order-micro
+[submodule "payment-micro"]
+	path = payment-micro
+	url = https://github.com/SwTan98/payment-micro
